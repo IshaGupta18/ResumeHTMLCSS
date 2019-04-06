@@ -1,0 +1,36 @@
+body{
+	background-color: yellow;
+}
+a{
+	color:green;
+}
+h1{
+	font-size: 61px;
+    border: 1px dashed blueviolet;
+    margin: 39px 190px 50px 35px;
+    padding: 34px;
+    font-family: sans-serif
+}
+.italic-tags{
+	color: green;
+}
+#pinkbg{
+	background-color: pink;
+}
+.blue-bg{
+	background-color: lightblue;
+}
+.unordered{
+	text-align: center;
+
+}
+#hulk{
+	display:inline-block;
+	width:100px;
+}
+.hlist{
+	list-style: none;
+}
+.hlist li{ /*accessing all elements of a list, writelike an address*/
+	display: inline-block; /* displaying list horizontally*/
+}

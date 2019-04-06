@@ -1,0 +1,25 @@
+#upper{
+	font-size: 65px;
+	height: 30px;
+    overflow: hidden;
+    margin:0px 0px 5px 0px;
+    padding:0px; 
+    position: relative;
+    bottom: 0px; 
+}
+#upqer{
+	top: 0px;
+	margin:0px 0px 5px 0px;
+	padding: 0px;
+	font-size: 65px;
+	height: 30px;
+	overflow: hidden;
+	position: relative;
+
+}
+#para{
+	margin: 0px;
+	padding: 0px;
+	position: absolute;
+	bottom: 0px;
+}
